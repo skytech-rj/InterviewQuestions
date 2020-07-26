@@ -1,4 +1,4 @@
-package com.st.matrix;
+package com.skytech.array;
 
 public class SpiralMatrix {
 
